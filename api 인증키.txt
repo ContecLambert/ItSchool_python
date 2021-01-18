@@ -1,0 +1,4 @@
+dart api인증키 : 6335ba5b35141c24db0d616d89ad536ca8c6a9d6
+텔레그램 api인증키:1482563711:AAE0hWxSDLPpH4CHlV-I_7TXYIgCNOJY4ao
+텔레그램 chat id : 1352565115           
+url?parm1=value&parm2=value&parm3=value
